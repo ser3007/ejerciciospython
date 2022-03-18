@@ -1,0 +1,9 @@
+definir=(ganados,perdidos,empatados,PUNTOS), (COMO ENTEROS)
+escribir="ingresa el total de partidos ganados"
+leer=ganados 
+escribir="ingresa el total de partidos perdidos"
+leer=perdidos
+escribir="ingresa el total de partidos empatados"
+leer=empatados
+puntos=(ganados*3)+empatados
+escribir="el total de puntos es: ",puntos

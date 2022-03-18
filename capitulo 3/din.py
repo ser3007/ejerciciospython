@@ -1,0 +1,6 @@
+a=int(input("Digite el valor para a :"))
+b=int(input("Digite el valor para b :"))
+c=int(input("Digite el valor para c :"))
+x=(((b*b)-4*(a)*(c))**0.5)
+x1=(-b+(x))/(2*a)
+print(x1)
