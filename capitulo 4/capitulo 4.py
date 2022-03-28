@@ -6,4 +6,3 @@ else:
         print("el año es bisiesto")
     else:
         print("el año no es bisiesto")
-        
